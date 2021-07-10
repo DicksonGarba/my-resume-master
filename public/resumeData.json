@@ -1,0 +1,155 @@
+{
+  "main": {
+    "name":"Hi This is Garba",
+    "description":"Self-motivated IT Specialist with valuable skills in Information Technology. Passionate about combining strategy and creativity, driving new opportunities, and building professional relationships, and exceptional skills adapting to multiple working environments and teams",
+    "image":"myprofile.jpeg",
+    "bio":"I am working as IT Developer and Support at NFC Bank SA. I work extensively in developing in-house banking applications, and internal and external user support of the core banking systems and e-banking",
+    "contactmessage":"Here You can connect with me.",
+    "email": "garbadickson@gmail.com",
+    "phone": "+237 677-227-775",
+    "github":"https://github.com/DicksonGarba",
+    "project":"",
+    "address":{
+      "street":"Simbock",
+      "city":"Yaounde",
+      "state":"Centre",
+      "zip": "0000"
+    },
+    "website": "#",
+    "resumedownload":"#",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/garba.dickson",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/GarbaDickson?s=09",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/dickson-garba-8130b597",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/garbadickson/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/DicksonGarba",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Here are some of my skills. Will be adding more once I accquire those too. Thank You !!",
+    "education":[
+      {
+        "school":"LINKEDIN LEARNING",
+        "degree":"Software Engineering Certification",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"INFORMATION & COMMUNICATION TECHNOLOGY UNIVERSITY",
+        "degree":"Bachelors in ICT",
+        "graduated":"July 2018",
+        "description":""
+      }
+    ],
+    "work":[
+      {
+        "company":"NFC Bank SA",
+        "title":"IT Developer & Support Trainee",
+        "years":"June 2021 - Present",
+        "description":""
+      },
+      {
+        "company":"Bryanna & Juliet Ltd",
+        "title":"IT Technician",
+        "years":"December 2020 - May 2021",
+        "description":""
+      },
+      {
+        "company":"NexGen Tech Center",
+        "title":"Center Manager",
+        "years":"May 2018 - July 2020",
+        "description":""
+      }
+    ],
+    "skills":[
+      {
+        "name":"NodeJs backend API development",
+        "level":"5%"
+      },
+      {
+        "name":"ReactJs Web app development",
+        "level":"15%"
+      },
+      {
+        "name":"PHP",
+        "level":"80%"
+      },
+      {
+        "name":"Web design UX and UI by Abobe XD",
+        "level":"50%"
+      },
+      {
+        "name":"Git & Version Control tool",
+        "level":"50%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"JAVA",
+        "level":"35%"
+      },
+      {
+        "name":"Python Language",
+        "level":"10%"
+      },
+      {
+        "name":"Docker",
+        "level":"25%"
+      },
+      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Replace",
+        "category":"A Online Book store for WBUT University students",
+        "image":"onlineBookStore.jpg",
+        "url":"#"
+      },
+      {
+        "title":"Replace",
+        "category":"An Inspirational Website of mine designed on WordPress platform.",
+        "image":"inspiringMindBlog.png",
+        "url":"#"
+      },
+      {
+        "title":"Replace",
+        "category":"Source code of dating App api service backend design and API debelopment in Typescript.",
+        "image":"datingAppAPI.png",
+        "url":"#"
+      },
+      {
+        "title":"Replace",
+        "category":"Source code of cmd line application for gst calculation of developed in JAVA.",
+        "image":"gst-calculator-project.jpg",
+        "url":"#"
+      }
+    ]
+  }
+}
